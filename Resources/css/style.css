@@ -5,6 +5,11 @@ body {
   font-family: Verdana;
 }
 
+p {
+  font-size: 21px;
+  color: gray;
+}
+
 /*** Main ****/
 
 h1 {
