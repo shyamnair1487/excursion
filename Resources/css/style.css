@@ -41,5 +41,11 @@ h2 {
 .camp {
   margin-top: 20px;
 }
+ /**** Footer *****/
 
-/***** Support-2 *****/
+ .footer p {
+   text-align: right;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-right: 10px;
+ }
