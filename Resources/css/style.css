@@ -10,14 +10,36 @@ body {
 h1 {
   font-weight: normal;
   font-size: 50px;
+  margin-bottom: 40px;
 }
 
 .link {
   font-size: 16px;
   color: Aquamarine;
+
 }
 
 video {
   display: block;
   margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
+
+/**** Support-1 ****/
+
+.support-1 {
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+  margin-bottom: 40px;
+}
+
+.camp {
+  margin-top: 20px;
+}
+
+/***** Support-2 *****/
